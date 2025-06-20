@@ -1,0 +1,11 @@
+#20-06-2025
+java daily 
+-how java works 
+-using variables
+-strings 
+-loops
+-->while loop
+-->for loop
+-->do while
+-if
+-taking input by user
