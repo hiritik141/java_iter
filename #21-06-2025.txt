@@ -1,0 +1,6 @@
+#21-06-2025
+switch 
+array 
+array of strings
+multi dimensional array
+classes and object 
