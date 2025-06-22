@@ -1,0 +1,5 @@
+#20-06-2025
+methods
+getters and return values
+method parameters
+setters  and this
