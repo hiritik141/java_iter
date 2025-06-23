@@ -1,0 +1,6 @@
+#23-06-2025
+constructors
+static variable
+string builder
+string formatting
+toString method
