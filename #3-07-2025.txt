@@ -1,0 +1,5 @@
+#3-07-2025
+explored GitHub and found practical use cases of Java topics like abstract classes and more. 
+It helped me understand their real-world use and where they’re generally applied.
+
+Revision of previously studied topics
