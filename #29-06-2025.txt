@@ -1,0 +1,5 @@
+#29-06-2025
+generics 
+wildcards
+anonymous classes
+reading files using scanner  

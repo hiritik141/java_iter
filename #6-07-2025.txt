@@ -1,0 +1,2 @@
+Enum Types:
+Basic and Advanced Usage
