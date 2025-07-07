@@ -1,0 +1,5 @@
+#7-07-2025
+revision of 
+ Inner Classes
+ The Equals Method
+ Try-With-Resources
