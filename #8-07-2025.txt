@@ -1,0 +1,5 @@
+ Java's compile-time and runtime mechanism
+
+- Covered javac, JVM, and bytecode flow
+- Compared Java and C++ execution models
+- Based on Oracle docs and practical research
