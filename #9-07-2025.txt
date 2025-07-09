@@ -1,0 +1,4 @@
+#9-07-2025
+Practiced functions with multiple classes and exception handling
+- Wrote functions across different classes
+- Used try-catch blocks for error handling
