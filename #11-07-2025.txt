@@ -1,0 +1,5 @@
+#11-07-2025
+Explored Java exceptions - throw, throws, try-catch
+
+- Practiced custom and runtime exceptions
+- Understood when to use throw vs throws
