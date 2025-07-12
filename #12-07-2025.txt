@@ -1,0 +1,4 @@
+12-07-2025
+
+- Practiced overriding equals() and understanding object comparison
+- Worked with inner classes and their access to outer class members
