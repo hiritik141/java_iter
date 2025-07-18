@@ -1,0 +1,4 @@
+18-07-2025
+Retail Billing & Inventory Management Dashboard - Java
+ -Added product creation with name, price, quantity, category
+ -Integrated enums for product categories
