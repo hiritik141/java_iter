@@ -1,0 +1,6 @@
+#20-07-2025
+Added inventory display 
+
+- Implemented method to print all inventory items
+- Used encapsulation with getters and setters for product details
+- Improved input handling with Scanner
