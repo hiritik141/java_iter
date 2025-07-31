@@ -1,0 +1,11 @@
+Date: 31-07-2025
+
+ Learned and practiced 37 UNIX commands.
+
+ Studied and understood topics:
+   - tar (archiving files)
+   - chmod (symbolic and numeric permissions)
+   - mailx (sending mail, sender ID)
+   - cat (create/view files, Ctrl+D usage)
+ Understood ls -l usage after chmod.
+ Practiced command syntax and outputs.
