@@ -1,0 +1,7 @@
+#2-08-2025
+ Completed Java interview preparation Q&A (30 questions )
+
+- Prepared answers for 30 core Java interview questions
+- Covered topics: basics, arrays, OOP concepts, access modifiers, 
+  file handling, exceptions, serialization, generics, and pass-by-value
+
