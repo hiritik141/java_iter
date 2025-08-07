@@ -1,0 +1,3 @@
+Revised key Java concepts:
+use of String and Integer in generics, type safety, and object vs primitive handling.
+ Also practiced mock-style interview questions to reinforce understanding.
